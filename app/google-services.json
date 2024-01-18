@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86738485377",
+    "project_id": "orderowl-c7e8f",
+    "storage_bucket": "orderowl-c7e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86738485377:android:2ace0c0c360e0e6e864d80",
+        "android_client_info": {
+          "package_name": "com.example.orderowl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGZR0Fz6y4M-QF9_OKvHvCE5d44U6sKYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
